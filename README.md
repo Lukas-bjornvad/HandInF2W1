@@ -1,3 +1,5 @@
+Opgaverne fra Flow 2 Week 1
+
 Torsdags opgaven er en del af Onsdags opgave.
 
 Havde nogle frustrærende problemer med entity klasserne når det kom til relationer som tog en del af min tid, derfor er de fleste røde og gule opgaver ikke lavet.
