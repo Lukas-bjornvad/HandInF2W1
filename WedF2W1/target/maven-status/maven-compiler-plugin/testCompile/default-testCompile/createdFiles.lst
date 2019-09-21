@@ -1,0 +1,3 @@
+utils\SettingsTest.class
+rest\PersonResourceTest.class
+facades\PersonFacadeTest.class

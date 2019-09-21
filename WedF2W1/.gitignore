@@ -1,0 +1,62 @@
+
+# Created by https://www.gitignore.io/api/web,java,netbeans
+# Edit at https://www.gitignore.io/?templates=web,java,netbeans
+
+### Java ###
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+### NetBeans ###
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### Web ###
+*.asp
+*.cer
+*.csr
+*.css
+*.htm
+*.html
+*.js
+*.jsp
+*.php
+*.rss
+*.xhtml
+
+# End of https://www.gitignore.io/api/web,java,netbeans
+/Thursday Exercise/nbproject/
+/Tuesday Exersie/customer/target/
+/Tuesday Exercise/customer/target/
+/Tuesday Exercise/book/target/
+/Tuesday Exercise/book 1/target/
+/Tuesday Exercise/customer 3/target/
+/Wednesday Exercise/customer 3/target/
+/Wednesday Exercise/customer 4/target/
+/Tirsdag/The_HTTP_Protocol/target/
